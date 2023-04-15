@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ergun</h1>
+<h1 align="center">Hi 👋, I'm Ergün</h1>
 <h3 align="center">A passionate frontend developer , python , javascript, machine learning from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mock3ng&label=Profile%20views&color=0e75b6&style=flat" alt="mock3ng" /> </p>

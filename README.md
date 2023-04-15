@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 🤝 I’m looking for help with **Frontend,DS,Algorithms,ML**
-
 - 💬 Ask me about **Python , Frontend , LSTM**
 
 - 📫 How to reach me **mock3ng@gmail.cm**

@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mock3ng&label=Profile%20views&color=0e75b6&style=flat" alt="mock3ng" /> </p>
 
-- 🔭 I’m currently working on **Programming**
+- 🔭 I’m currently working on **Programming** **Network**
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 💬 Ask me about **Python , Frontend , LSTM**
+- 💬 Ask me about **Python , CPP , Cisco , Embeded Software , Network**
 
-- 📫 How to reach me **mock3ng@gmail.cm**
+- 📫 How to reach me **erguncalbay2@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 

@@ -3,7 +3,7 @@
 
 🌱 I'm currently learning Frameworks
 
-💬 Ask me about Python, C++, Cisco, Embedded Software, Network
+💬 Ask me about AI , ML ,Python, C++, Cisco, Embedded Software, Network
 
 📫 How to reach me: erguncalbay2@gmail.com
 

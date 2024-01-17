@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ergün</h1> <h3 align="center">A passionate frontend developer, Python, JavaScript, and machine learning enthusiast from Turkey</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mock3ng&label=Profile%20views&color=0e75b6&style=flat" alt="mock3ng" /> </p>
+<h1 align="center">Hi 👋, I'm Ergün</h1> <h3 align="center">A passionate AI, Python, JavaScript and C++ learning enthusiast from Turkey</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mock3ng&label=Profile%20views&color=0e75b6&style=flat" alt="mock3ng" /> </p>
 🔭 I'm currently working on Programming and Network
 
 🌱 I'm currently learning Frameworks
